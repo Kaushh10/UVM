@@ -5,6 +5,7 @@
 `include "sequence.sv"
 `include "driver.sv"
 `include "monitor.sv"
+`include "agent.sv"
 `include "scoreboard.sv"
 `include "environemnt.sv"
 `include "test.sv"
